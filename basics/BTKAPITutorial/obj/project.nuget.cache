@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UKcjfoSJ4OgoGC576RlJrLnzUuA7M5qNqlUVsmFVuwRQl2WXg43vMzcFTOuEG18JxeFBYIHc468KlDgsbR6R+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Burak\\C#_Projects\\BTKASPNetCoreWebAPI\\basics\\BTKAPITutorial\\BTKAPITutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Burak\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Burak\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Burak\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Burak\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Burak\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Burak\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
