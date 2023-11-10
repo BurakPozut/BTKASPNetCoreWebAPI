@@ -1,7 +1,6 @@
 C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\Entities\bin\Debug\net6.0\Entities.deps.json
 C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\Entities\bin\Debug\net6.0\Entities.dll
 C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\Entities\bin\Debug\net6.0\Entities.pdb
-C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
 C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
 C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs

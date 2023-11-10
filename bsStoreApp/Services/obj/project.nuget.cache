@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "63u3a5hfZwKC3E9Q2fkVZQtVOvqpkFtTxfioIH2D3l8iNqkYX1KDN5TWd3Kl+Ei6hKlcJOazO3tHzGnsouTs5A==",
+  "dgSpecHash": "RrlhW+vJzp/SGj7vH1T2Rxwz+eOzkoVU1EYmZjX8MGNOHoG/NmftmSmALmKLRGxNKszk9xWnpxSAngRH16lOMQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Burak\\C#_Projects\\BTKASPNetCoreWebAPI\\bsStoreApp\\Services\\Services.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Burak\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Burak\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Burak\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.10\\microsoft.entityframeworkcore.abstractions.6.0.10.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.10\\microsoft.entityframeworkcore.analyzers.6.0.10.nupkg.sha512",
