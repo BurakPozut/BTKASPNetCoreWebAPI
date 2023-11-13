@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jCaeT3nYdP1UHD1P4iBuyhrc2Lun0j6GYD/gcVQkng+RVUhUlHxHIn8hOedP0+7atGE4fu4Bv7GDVYQxsYZB0g==",
+  "dgSpecHash": "p1XfBcZxYkm4dbUtN2Ec502lJ6u+JN2ooD9/CNK4j5CTO6xfFF+tu1w88k6BmNLfk7l7YnGheN5UdRJ/SRBsKg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Burak\\C#_Projects\\BTKASPNetCoreWebAPI\\bsStoreApp\\Presentation\\Presentation.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\Burak\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.24\\microsoft.aspnetcore.jsonpatch.6.0.24.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.2.0\\microsoft.aspnetcore.mvc.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.2.5\\microsoft.aspnetcore.mvc.core.2.2.5.nupkg.sha512",
+    "C:\\Users\\Burak\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.24\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.24.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\microsoft.aspnetcore.responsecaching.abstractions\\2.2.0\\microsoft.aspnetcore.responsecaching.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\microsoft.aspnetcore.routing\\2.2.0\\microsoft.aspnetcore.routing.2.2.0.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\microsoft.aspnetcore.routing.abstractions\\2.2.0\\microsoft.aspnetcore.routing.abstractions.2.2.0.nupkg.sha512",
@@ -45,6 +46,7 @@
     "C:\\Users\\Burak\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Burak\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\nlog\\5.2.5\\nlog.5.2.5.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\nlog.extensions.logging\\5.3.5\\nlog.extensions.logging.5.3.5.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\runtime.native.system\\4.0.0\\runtime.native.system.4.0.0.nupkg.sha512",
