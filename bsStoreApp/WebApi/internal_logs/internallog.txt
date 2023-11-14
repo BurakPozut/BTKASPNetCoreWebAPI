@@ -154,3 +154,67 @@
 2023-11-13 19:24:03.1322 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
 2023-11-13 19:24:03.1444 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\WebApi\nlog.config
 2023-11-13 19:24:03.1444 Info Configuration initialized.
+2023-11-14 12:29:41.2573 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-14 12:29:41.2881 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-14 12:29:41.3025 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\WebApi\nlog.config
+2023-11-14 12:29:41.3155 Info Configuration initialized.
+2023-11-14 12:47:11.4807 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-14 12:47:11.4940 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-14 12:47:11.5053 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\WebApi\nlog.config
+2023-11-14 12:47:11.5053 Info Configuration initialized.
+2023-11-14 14:22:17.9517 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-14 14:22:17.9517 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-14 14:22:17.9776 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\WebApi\nlog.config
+2023-11-14 14:22:17.9903 Info Configuration initialized.
+2023-11-14 14:41:01.2132 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-14 14:41:01.2261 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-14 14:41:01.2376 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\WebApi\nlog.config
+2023-11-14 14:41:01.2492 Info Configuration initialized.
+2023-11-14 17:01:37.3352 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-14 17:01:37.3519 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-14 17:01:37.3658 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\WebApi\nlog.config
+2023-11-14 17:01:37.3797 Info Configuration initialized.
+2023-11-14 17:02:19.3229 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-14 17:02:19.3669 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-14 17:02:19.3880 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\WebApi\nlog.config
+2023-11-14 17:02:19.3880 Info Configuration initialized.
+2023-11-14 17:02:57.1458 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-14 17:02:57.1600 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-14 17:02:57.1718 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\WebApi\nlog.config
+2023-11-14 17:02:57.1718 Info Configuration initialized.
+2023-11-14 17:03:27.1810 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-14 17:03:27.1991 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-14 17:03:27.2171 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\WebApi\nlog.config
+2023-11-14 17:03:27.2171 Info Configuration initialized.
+2023-11-14 17:04:45.0348 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-14 17:04:45.1133 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-14 17:04:45.1533 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\WebApi\nlog.config
+2023-11-14 17:04:45.1860 Info Configuration initialized.
+2023-11-14 17:06:56.6405 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-14 17:06:56.6537 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-14 17:06:56.6537 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\WebApi\nlog.config
+2023-11-14 17:06:56.6755 Info Configuration initialized.
+2023-11-14 17:08:49.8086 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-14 17:08:49.8216 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-14 17:08:49.8351 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\WebApi\nlog.config
+2023-11-14 17:08:49.8476 Info Configuration initialized.
+2023-11-14 17:21:26.9363 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-14 17:21:26.9363 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-14 17:21:26.9628 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\WebApi\nlog.config
+2023-11-14 17:21:26.9733 Info Configuration initialized.
+2023-11-14 17:21:48.3961 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-14 17:21:48.4112 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-14 17:21:48.4112 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\WebApi\nlog.config
+2023-11-14 17:21:48.4331 Info Configuration initialized.
+2023-11-14 17:22:42.8296 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-14 17:22:42.8476 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-14 17:22:42.8476 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\WebApi\nlog.config
+2023-11-14 17:22:42.8718 Info Configuration initialized.
+2023-11-14 17:24:33.3036 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-14 17:24:33.3205 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-14 17:24:33.3314 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\WebApi\nlog.config
+2023-11-14 17:24:33.3314 Info Configuration initialized.
+2023-11-14 17:31:23.5496 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-14 17:31:23.5630 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-14 17:31:23.5630 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\WebApi\nlog.config
+2023-11-14 17:31:23.5849 Info Configuration initialized.

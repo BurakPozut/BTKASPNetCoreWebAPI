@@ -9,3 +9,4 @@ C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\Entities\obj\Debug\net
 C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\Entities\obj\Debug\net6.0\refint\Entities.dll
 C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\Entities\obj\Debug\net6.0\Entities.pdb
 C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache

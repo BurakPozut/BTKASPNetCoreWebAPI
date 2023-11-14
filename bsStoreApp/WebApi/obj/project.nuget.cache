@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "W0B2oiVwJbcPobYMeAe+cTjf7L0WdqJlkIXNWpCc1+RBwvXJ5GLk8ANfee7GVbzrQBzUVdGVJqKcxBrDqbmrSA==",
+  "dgSpecHash": "zaLFdgsq00rveMiFZHIn/lItMU0n/Nmfl740MBN7IeaJBgYLiwMZE0sjwveRY4OSUaLCctoNrF9wqS0ELnl3rg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Burak\\C#_Projects\\BTKASPNetCoreWebAPI\\bsStoreApp\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
@@ -87,6 +87,7 @@
     "C:\\Users\\Burak\\.nuget\\packages\\system.io.filesystem\\4.0.1\\system.io.filesystem.4.0.1.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\system.io.filesystem.primitives\\4.0.1\\system.io.filesystem.primitives.4.0.1.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\system.linq\\4.1.0\\system.linq.4.1.0.nupkg.sha512",
+    "C:\\Users\\Burak\\.nuget\\packages\\system.linq.dynamic.core\\1.3.5\\system.linq.dynamic.core.1.3.5.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\system.linq.expressions\\4.1.0\\system.linq.expressions.4.1.0.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\system.objectmodel\\4.0.12\\system.objectmodel.4.0.12.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\system.reflection\\4.1.0\\system.reflection.4.1.0.nupkg.sha512",
