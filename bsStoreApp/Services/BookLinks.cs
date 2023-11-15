@@ -57,6 +57,7 @@ namespace Services
             });
             return bookCollectionWrapper;
         }
+
         private List<Link> CreateForBook(HttpContext httpContext, 
             BookDto bookDto, string fields)
         {
