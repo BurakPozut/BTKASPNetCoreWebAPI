@@ -6,6 +6,8 @@ namespace Entities.Models
     {
         public String? FirstName { get; set; }
         public String? LastName { get; set; }
+        public String? RefreshToken { get; set; }
+        public DateTime RefreshTokenExpireTime { get; set; }
 
     }
 }

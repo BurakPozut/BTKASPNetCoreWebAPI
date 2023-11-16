@@ -89,3 +89,4 @@ C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\WebApi\bin\Debug\net6.
 C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\WebApi\bin\Debug\net6.0\Marvin.Cache.Headers.dll
 C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\WebApi\bin\Debug\net6.0\AspNetCoreRateLimit.dll
 C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Burak\C#_Projects\BTKASPNetCoreWebAPI\bsStoreApp\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
